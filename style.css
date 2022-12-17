@@ -81,7 +81,7 @@ footer {
 }
 
 .footerSeciton p {
-    margin-top: 3vh;
+    margin-top: 2vh;
     color: white;
     text-align: center;
 }
@@ -111,7 +111,7 @@ footer {
     background-color: var(--bgMainHover);
 }
 
-@keyframes rot {
+/* @keyframes rot {
     0% {
         transform: rotate(0deg);
     }
@@ -119,10 +119,10 @@ footer {
     100% {
         transform: rotate(360deg);
     }
-}
+} */
 
 .mainImg {
-    animation: rot 1s infinite linear;
+    /* animation: rot 1s infinite linear; */
     border-radius: 50%;
     overflow: hidden;
     width: 450px;
@@ -130,6 +130,8 @@ footer {
 }
 
 .mainImg img {
+    position: relative;
+    left: -142px;
     height: 450px;
     object-fit: cover;
     display: block;
@@ -198,7 +200,7 @@ footer {
     text-align: left;
     text-decoration: none;
     color: white;
-    margin-top: 0.7vh;
+    margin-top: 2.7vh;
 }
 
 .blocks:nth-child(1) a {
@@ -381,6 +383,9 @@ footer {
     .authDiv form {
         align-items: center;
     }
+    .mainImg img{
+        left: -217px;
+    }
 }
 
 
@@ -427,6 +432,9 @@ footer {
     .mainImg{
         margin-top: 5vh;
     }
+    .mainImg img{
+        left: 0;
+    }
 }
 @media screen and (max-width: 320px){
     :root {
@@ -444,5 +452,9 @@ footer {
     }
     .rightFAQ p{
         font-size: 12px;
+    }
+    .mainImg img{
+        left: 20px;
+        height: 350px;
     }
 }

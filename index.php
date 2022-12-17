@@ -3,15 +3,12 @@ require 'block/header.php';
 ?>
 <section class="wrapper fristSection">
     <div>
-        <h1>Воплощение ваших бизнес-идей<?php echo mysqli_ping($mysqli)?></h1>
-        <p>Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco Laboris nisi
-            ut aliquip ex ea commodo consequat. Duis aute irure
-            dolor in reprehenderit in voluptate velit esse cillum</p>
+        <h1>Лекарство, сделанное с заботой</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit placeat delectus incidunt illo temporibus. Nostrum deserunt veniam corporis magnam quam.</p>
         <a href="#">Читать далее</a>
     </div>
     <div class="mainImg">
-        <img src="/img/1.jpg" alt="">
+        <img src="/img/111.jpg" alt="">
     </div>
 </section>
 
@@ -19,7 +16,7 @@ require 'block/header.php';
     <div class="wrapper">
         <div class="blocks">
             <!-- 1 -->
-            <h3>Наш сервис звонков мирового качества</h3>
+            <h3>Наш сервис звонков</h3>
             <p>Lorem ipsum dolor sit amet consectetur.</p>
             <a href="#">Подробнее >></a>
         </div>
@@ -51,7 +48,7 @@ require 'block/header.php';
                         </svg> </g>
                 </svg>
             </div>
-            <h3>ОНЛАЙН-ИССЛЕДОВАНИЯ</h3>
+            <h3>Онлайн-иследования</h3>
             <p>Lorem ipsum dolor sit amet consectetur.</p>
         </div>
         <div class="blocks imgF"></div> <!-- 3 -->
@@ -63,7 +60,7 @@ require 'block/header.php';
                     d="M9.405 1.05c-.413-1.4-2.397-1.4-2.81 0l-.1.34a1.464 1.464 0 0 1-2.105.872l-.31-.17c-1.283-.698-2.686.705-1.987 1.987l.169.311c.446.82.023 1.841-.872 2.105l-.34.1c-1.4.413-1.4 2.397 0 2.81l.34.1a1.464 1.464 0 0 1 .872 2.105l-.17.31c-.698 1.283.705 2.686 1.987 1.987l.311-.169a1.464 1.464 0 0 1 2.105.872l.1.34c.413 1.4 2.397 1.4 2.81 0l.1-.34a1.464 1.464 0 0 1 2.105-.872l.31.17c1.283.698 2.686-.705 1.987-1.987l-.169-.311a1.464 1.464 0 0 1 .872-2.105l.34-.1c1.4-.413 1.4-2.397 0-2.81l-.34-.1a1.464 1.464 0 0 1-.872-2.105l.17-.31c.698-1.283-.705-2.686-1.987-1.987l-.311.169a1.464 1.464 0 0 1-2.105-.872l-.1-.34zM8 10.93a2.929 2.929 0 1 1 0-5.86 2.929 2.929 0 0 1 0 5.858z"
                     id="mainIconPathAttribute" stroke-width="0" stroke="#ff0000" fill="#2891f4"></path>
             </svg>
-            <h3>СОЦИАЛЬНЫЕ МЕДИА</h3>
+            <h3>Мы есть в соцсетях</h3>
             <p>Lorem ipsum dolor sit amet consectetur.</p>
         </div>
         <div class="blocks imgS"></div> <!-- 5 -->
@@ -77,7 +74,7 @@ require 'block/header.php';
                         id="mainIconPathAttribute" stroke-width="0" stroke="#ff0000" fill="#2891f4"></path>
                 </svg>
             </div>
-            <h3>ДИЗАЙН САЙТА</h3>
+            <h3>Дизайн сайта</h3>
             <p>Lorem ipsum dolor sit amet consectetur.</p>
         </div>
     </div>

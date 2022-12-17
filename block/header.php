@@ -34,7 +34,8 @@ if (!is_null($_SESSION['mess'])) {
     <header>
         <nav class="wrapper">
             <a href="/">
-                <iconify-icon class="ico" icon="logos:atom"></iconify-icon>
+            <iconify-icon class="ico" icon="logos:appsignal"></iconify-icon>
+                <!-- <iconify-icon class="ico" icon="logos:atom"></iconify-icon> -->
             </a>
             <div>
                 <a href="/">Главная</a>

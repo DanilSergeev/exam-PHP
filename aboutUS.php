@@ -5,34 +5,18 @@ require 'block/header.php';
 <section class="wrapper aboutUsSection">
     <div>
         <h2>О компании</h2>
-        <p>Куртка — короткое верхнее изделие (одежда), наглухо застёгивающееся.
-            Иногда противопоставляется пальто, как длиннополой зимней и/или демисезонной верхней одежде,
-            а также мужскому пиджаку и женскому жакету, как верхней одежде в холодную погоду.
-            Современные куртки изготавливаются из водоотталкивающих тканей (кожа, деним),
-            а также меха и искусственного меха. Часто куртки шьются с утеплённой подкладкой.
-            Иногда куртки снабжаются молнией и капюшоном.
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum quam reiciendis blanditiis dignissimos accusamus consectetur consequatur odio suscipit neque error aliquam vero, voluptatibus aspernatur perspiciatis, id asperiores maiores, in obcaecati?
             <br><br>
-            Существует множество версий происхождения курток,
-            однако короткая верхняя тёплая одежда издревле известна у разных народов.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta ducimus unde dicta quibusdam sunt necessitatibus eaque, reiciendis modi sed tenetur qui voluptatum fugit expedita id veniam quasi commodi iure veritatis.  
     
-            У северных народов она известна с эпохи мезолита (Оленеостровский могильник).
-            Курткой-аляской называют традиционную одежду эскимосов, из чего делают вывод,
-            что именно они изобрели куртки.
-            Традиционная верхняя короткая одежда японцев (хаори или дзюдоги),
-            а также русских (зипун) часто классифицируется как куртка.
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, reiciendis pariatur itaque illum eligendi nulla maiores ipsum, omnis enim soluta esse sapiente architecto fugiat unde! Perspiciatis esse et quo facere? Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, magnam? Perspiciatis consequatur laudantium unde sit fugiat accusamus, obcaecati dicta culpa fuga modi facere ea, eius expedita ullam deleniti est ex.
         </p>
     
         <img src="/img/11.jpg" alt="">
         <p>
-            Издревле носили куртки в Европе. В эпоху Средневековья в кожаные куртки
-            облачались английские и французские лучники (колет и котарди).
-            В эпоху Возрождения куртка стала составной частью испанского костюма.
-            В XVII веке их носили мушкетёры, а в XVIII веке — гусары (доломан и ментик) и драгуны.
-            Моду на ношение курток в высших сословиях ввёл в 1860 году итальянский революционер Гарибальди,
-            причём куртка Гарибальди нередко именовалась блузой или рубашкой и была сделана из алого кашемира.
+            Lorem ipsum <?php echo mysqli_ping($mysqli)?> dolor sit amet consectetur adipisicing elit. Natus amet odio at incidunt eveniet. Corporis earum dolor, hic quasi eos inventore commodi et nihil obcaecati culpa animi quia eum? Qui. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam adipisci ratione, possimus animi ab, voluptates amet alias ducimus aliquam nihil, optio necessitatibus sunt ut nesciunt quaerat porro placeat magni quo?
             <br><br>
-            В XX веке получили популярность такие форменные куртки как ватная куртка,
-            френч, бушлат и афганка.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus impedit quas vitae.
         </p>
     </div>
 </section>
